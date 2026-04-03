@@ -1,6 +1,6 @@
- .idea/
-out/
+.metadata/
+bin/
 *.class
-*.iml
-.DS_Store
-/.metadata/
+.settings/
+
+
